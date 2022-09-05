@@ -1,0 +1,1 @@
+Projeto realizado para o curso de HTML e CSS da Alura com o objetivo de exercitar os conhecimentos adquiridos ao longo das aulas.
